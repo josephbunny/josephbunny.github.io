@@ -1,0 +1,7 @@
+Color Palette:
+
+Main: #0a192f
+Secondary: #8892b0
+Stand Out/Accents: #58e3c4
+Background: #0a192f
+Navbar bgColor: #3C6E8C
